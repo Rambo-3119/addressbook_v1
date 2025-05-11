@@ -8,7 +8,7 @@ then
   cd /home/ec2-user/addressbook-v1
   git pull origin master
 else
-  git clone https://github.com/preethid/addressbook-v1.git
+  git clone https://github.com/Rambo-3119/addressbook_v1.git
 fi
 
 cd /home/ec2-user/addressbook-v1
